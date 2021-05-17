@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nandanray
+- 👀 I’m interested in coding and automation
+- 🌱 I’m currently learning Ansible and sonarcube
+- 💞️ I’m looking to collaborate on MS Azure
