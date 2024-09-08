@@ -1,4 +1,6 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Nandan Ray</h1>
+<h3 align="center">A passionate automation and process critical technology enthusiast</h3>
+
 🔭 I’m currently working at HaystackAnalytics<br>🌱 I’m currently learning Terraform, AWS and Git.<br>👯 I’m looking to collaborate on Cloud Infrastructure Automation<br>🤝 I’m looking for help with automation in general<br>👨‍💻 All of my projects are available at https://github.com/nandanray?tab=repositories<br>📫 How to reach me nandan@haystackanalytics.in<br>📄 Know about my experiences https://www.linkedin.com/in/nandan-ray/<br>⚡ Fun fact The Mona Lisa has no eyebrows.
 
 
